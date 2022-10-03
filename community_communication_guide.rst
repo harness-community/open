@@ -24,6 +24,8 @@ General Channels
 
 The clickable links will take you directly to the relevant Slack channel in your browser:
 
+Harness Social - Slack: `#social <https://harnesscommunity.slack.com/archives/C044D6W0SH1>`_
+
 General Communication and Announcements - Slack: `#general <https://harnesscommunity.slack.com/archives/CJZ5NCZMG>`_
 
 Harness Events and Conferences - Slack: `#events <https://harnesscommunity.slack.com/archives/CJZA78YPL>`_
