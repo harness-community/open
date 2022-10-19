@@ -16,6 +16,60 @@ Harness Product(s): Use-cases, going through Harness Documentation, Tech Boot Ca
 - Overview of Application Objects
 - Walking through UI for each application object (service, workflow etc)
 
+We recommend that you get familiar with the following concepts alongside learning Harness
+to get acquainted with the Software Delivery Ecosystem in general.
+
+#### Base knowledge:
+
+Fundamental understanding of and experience configuring and deploying
+workloads in cloud environments such as:
+
+- Amazon Web Services (AWS)
+- Google Cloud Platform (GCP)
+- Azure
+- 
+Fundamental understanding of the Linux Operating System and the capability to
+configure and deploy workloads using command-line interfaces including, but not
+limited to:
+
+- aws cli
+- gcp sdk
+- az cli
+- ssh
+- git
+
+Fundamental understanding of and/or experience configuring and deploying
+workloads in one or more of the following:
+
+- Kubernetes (k8s) using ‘ kubectl ‘
+- Kubernetes Distributions
+- Upstream:
+- Open Source Kubernetes (k8s)
+
+**Cloud Vendor:**
+- Azure Kubernetes Service (AKS)
+- Amazon Elastic Kubernetes Service (EKS)
+- Google Kubernetes Engine (GKE)
+
+**ISVs:**
+- Pivotal/VMware Enterprise Kubernetes Service ( PKS )
+- Red Hat OpenShift ( OCP / OKD ) using ‘ kubectl ’ and/or ‘ oc ‘
+- Rancher Kubernetes Engine ( RKE)
+
+
+### SDLC Learning Objectives:
+
+We recommend that you get familiar with the following concepts:
+
+- Describe the Software Delivery Life Cycle (SDLC)
+- Describe common elements of software delivery (release, scrum, standup, sprints, CI, CD)
+- Explain the common roles in software delivery (DevOps, sre, etc.)
+- Identify the top challenges facing customers
+- Describe how DevOps impacts business
+- Describe the importance of metrics
+- Describe the competing forces that drive DevOps
+
+
 ### Harness NextGen 
 
 - Delegate
