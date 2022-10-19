@@ -94,11 +94,6 @@ We recommend that you get familiar with the following concepts:
 ### CI - Backend Checklist
 
 - [ ] Golang
-- [ ] Google Guice
-- [ ] Lombok
-- [ ] SpringBoot
-- [ ] Mongo queries
-- [ ] Java 8 streaming
 - [ ] Java
 - [ ] Redis
 
