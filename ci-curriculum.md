@@ -111,6 +111,7 @@ We recommend that you get familiar with the following concepts:
 
 ## Resources 
 
+- Getting Started with Harness CI : [Click Here](https://harness-community.github.io/blog/harness-getting-started)
 - Harness University : [Click Here](https://university.harness.io/)
 - Harness NG Documentation : [Click Here](https://docs.harness.io/article/hv2758ro4e-learn-harness-key-concepts)
 
