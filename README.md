@@ -1,4 +1,4 @@
-# Harness-Community - Overview
+# Harness Open
 
 This repository contains details of the Harness Community communication guide, Contributor License Agreement, and details of other useful repos that exist in this org.
 
